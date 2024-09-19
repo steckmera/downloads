@@ -13,7 +13,7 @@ Reproducimos el audio notamos que son tonos y asumimos que es codigo morse.
 
 Lo cargamos en la siguiente plataforma:
 
-[https://morsecode.world/international/decoder/audio-decoder-adaptive.html](https://https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+[https://morsecode.world/international/decoder/audio-decoder-adaptive.html](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
 
 seleccionamos y subimos el archivo y obtenemos el mensaje oculto que es:
 
